@@ -1,3 +1,6 @@
 [submodule "sakcall"]
 	path = sakcall
 	url = https://github.com/Subhankar1712/sakcall.git
+[submodule "submarines"]
+	path = submarines
+	url = https://github.com/Subhankar1712/submarines.git
